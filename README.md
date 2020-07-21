@@ -29,7 +29,7 @@ This project is a good starting point for modern Python/Javascript developers to
     In today's world, everyone needs authentication in their web apps, so this project already dealt with that part.
     
     The boilerplate achieves authentication with the help of **JSON Web Tokens**, which is fairly new standard for token authentication, and does not need a
-    token for token verification.
+    separate database for token verification.
 
 ## How to start using the project?
 
